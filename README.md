@@ -1,4 +1,5 @@
 # data_science
-![58729167](https://user-images.githubusercontent.com/65193596/126849063-fa23324c-a0e7-4192-b101-6e7a2880bfe6.jpg)
+![pietro-jeng-n6B49lTx7NM-unsplash](https://user-images.githubusercontent.com/65193596/126853716-fea3f2ee-f6e3-42cc-bd8e-98917d8b2ff5.jpg)
+
 
 Esse reportório serve para guardar meus estudos de data science
